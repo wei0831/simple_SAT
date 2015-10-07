@@ -9,6 +9,9 @@ Implementation of Separating Axis Theorem
 ## To Run
 Run _build_vs2013.bat to generate VS2013 project
 
+## Result
+![Collision Detection](/SAT_TEST.png?raw=true)
+
 ## Author
 **[Jack Chang]**
 
