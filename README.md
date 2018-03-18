@@ -1,5 +1,5 @@
 # Simple SAT
-Date: 09/02/2014  
+Updated: 09/02/2014  
 
 Implementation of Separating Axis Theorem
 - Collision Detection, Least Penetration
@@ -11,8 +11,3 @@ Run _build_vs2013.bat to generate VS2013 project
 
 ## Result
 ![Collision Detection](/SAT_TEST.png?raw=true)
-
-## Author
-**[Jack Chang]**
-
-[Jack Chang]: https://about.me/wei0831
